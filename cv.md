@@ -44,5 +44,5 @@ function multiply(a, b){
 
 ## Languages
 
-* Russian - native
-* English - B1 (visited intership, Göttingen, Germany, 2023 apr-jun)
+* **Russian** - native
+* **English** - B1 (visited intership, Göttingen, Germany, 2023 apr-jun)
