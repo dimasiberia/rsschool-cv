@@ -36,9 +36,9 @@ function multiply(a, b){
 
 ## Education
 
-* Novosibirsk State University, Geology
-* 21 school
-* Rolling Scopes School. Pre-School (in process)
+* **Novosibirsk State University**, Geology
+* **21 school**
+* **Rolling Scopes School.** Pre-School (in process)
 
 ---
 
