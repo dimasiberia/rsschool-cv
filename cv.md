@@ -6,7 +6,7 @@
 * **Location:** Russia, Novosibirsk
 * **Phone:** +79137403792
 * **tg:** @dima_siberia
-* **Discord:** dima.siberia
+* **Discord:** Dmitrii Aleksandrov (@dima.siberia)
 * **GitHub:** [dimasiberia](https://github.com/dimasiberia)
 
 ---
@@ -26,6 +26,12 @@ Beginner Front-end Developer. I'm interested in new technologies.
 
 ## Code Example
 
+``` 
+function multiply(a, b){
+  return a * b
+}
+```
+
 ---
 
 ## Education
@@ -39,4 +45,4 @@ Beginner Front-end Developer. I'm interested in new technologies.
 ## Languages
 
 * Russian - native
-* English - B1
+* English - B1 (visited intership, Göttingen, Germany, 2023 apr-jun)
