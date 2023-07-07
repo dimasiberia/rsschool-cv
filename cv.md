@@ -46,3 +46,7 @@ function multiply(a, b){
 
 * **Russian** - native
 * **English** - B1 (visited intership, Göttingen, Germany, 2023 apr-jun)
+
+## Projects
+
+* [CV](https://github.com/dimasiberia/rsschool-cv.git)
