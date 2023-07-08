@@ -23,3 +23,13 @@ Beginner Front-end Developer. I'm interested in new technologies.
 * Adobe Photoshop, Adobe Illustrator
 
 ---
+
+## Code Example
+
+``` 
+function multiply(a, b){
+  return a * b
+}
+```
+
+---
