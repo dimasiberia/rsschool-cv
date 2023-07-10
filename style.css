@@ -11,10 +11,17 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  background-color: bisque;
+}
+
+.container-body {
+  width: 1440px;
+  background-color: white;
+  margin: auto;
 }
 
 .image-main {
-  border-radius: 25px;
+  border-radius: 50%;
 }
 
 .container {
@@ -44,14 +51,16 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-end;
+  font-size: 20px;
 
 }
 
 .nav-link {
   transition: 0.5s;
-  padding: 0 20px;
+  padding: 20px;
   line-height: 20px;
-  color: #36643c;
+  color: olive;
+
 }
 
 .nav-link:hover {
@@ -63,7 +72,6 @@ body {
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
 }
 
 .section {
