@@ -1,2 +1,2 @@
 # rsschool-cv
-https://dimasiberia.github.io/rsschool-cv/gh-pages
+https://dimasiberia.github.io/rsschool-cv/
